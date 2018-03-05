@@ -1,81 +1,95 @@
 {
-	"leaveRequests": [
-	{
-		"DT_REQUEST": "2016/11/28",
-		"SEQ": "01",
-		"LEAVE_TYPE": "V",
-		"DT_START": "2016/11/25",
-		"DT_END": "2016/11/30",
-		"REQ_REASON": "Stress!!!!",
-		"REQ_STATUS": "",
-		"DT_APPROVED": "",
-		"LEAVE_DEPT": ""
-	}, {
-		"DT_REQUEST": "2016/11/28",
-		"SEQ": "02",
-		"LEAVE_TYPE": "S",
-		"DT_START": "2016/11/28",
-		"DT_END": "2016/11/28",
-		"REQ_REASON": "Sick/Medical Leave",
-		"REQ_STATUS": "",
-		"DT_APPROVED": "",
-		"LEAVE_DEPT": "000110010"
-	}, {
-		"DT_REQUEST": "2016/11/29",
-		"SEQ": "01",
-		"LEAVE_TYPE": "V",
-		"DT_START": "2016/11/25",
-		"DT_END": "2016/11/30",
-		"REQ_REASON": "Stress!!!!",
-		"REQ_STATUS": "A",
-		"DT_APPROVED": "2016/11/29",
-		"LEAVE_DEPT": ""
-	}, {
-		"DT_REQUEST": "2017/01/25",
-		"SEQ": "01",
-		"LEAVE_TYPE": "S",
-		"DT_START": "2017/01/26",
-		"DT_END": "2017/01/26",
-		"REQ_REASON": "Sick/Medical Leave",
-		"REQ_STATUS": "A",
-		"DT_APPROVED": "2017/01/25",
-		"LEAVE_DEPT": "000110010"
-	}, {
-		"DT_REQUEST": "2018/02/23",
-		"SEQ": "02",
-		"LEAVE_TYPE": "V",
-		"DT_START": "2018/02/23",
-		"DT_END": "2018/02/28",
-		"REQ_REASON": "",
-		"REQ_STATUS": "",
-		"DT_APPROVED": "",
-		"LEAVE_DEPT": ""
-	}
-	],
-	"timeEntry": [
-	{
-		"Date": "2018/01/06",
-		"Hours": 8,
-		"Details": [{
-				"Hours": 3,
-				"Type": "Normal"
-			},
-			{
-				"Hours": 2,
-				"Type": "Overtime"
-			},
-			{
-				"Hours": 1,
-				"Type": "Sick"
-			},
-			{
-				"Hours": 2,
-				"Type": "Other"
-			}
-		]
-	}
-	],
-	"profile": {
-		"name": "typicode"
-	}
+    "leaveRequests": [
+        {
+            "DT_REQUEST": "2016/11/28",
+            "SEQ": "01",
+            "LEAVE_TYPE": "V",
+            "DT_START": "2016/11/25",
+            "DT_END": "2016/11/30",
+            "REQ_REASON": "Stress!!!!",
+            "REQ_STATUS": "",
+            "DT_APPROVED": "",
+            "LEAVE_DEPT": ""
+        }, {
+            "DT_REQUEST": "2016/11/28",
+            "SEQ": "02",
+            "LEAVE_TYPE": "S",
+            "DT_START": "2016/11/28",
+            "DT_END": "2016/11/28",
+            "REQ_REASON": "Sick/Medical Leave",
+            "REQ_STATUS": "",
+            "DT_APPROVED": "",
+            "LEAVE_DEPT": "000110010"
+        }, {
+            "DT_REQUEST": "2016/11/29",
+            "SEQ": "01",
+            "LEAVE_TYPE": "V",
+            "DT_START": "2016/11/25",
+            "DT_END": "2016/11/30",
+            "REQ_REASON": "Stress!!!!",
+            "REQ_STATUS": "A",
+            "DT_APPROVED": "2016/11/29",
+            "LEAVE_DEPT": ""
+        }, {
+            "DT_REQUEST": "2017/01/25",
+            "SEQ": "01",
+            "LEAVE_TYPE": "S",
+            "DT_START": "2017/01/26",
+            "DT_END": "2017/01/26",
+            "REQ_REASON": "Sick/Medical Leave",
+            "REQ_STATUS": "A",
+            "DT_APPROVED": "2017/01/25",
+            "LEAVE_DEPT": "000110010"
+        }, {
+            "DT_REQUEST": "2018/02/23",
+            "SEQ": "02",
+            "LEAVE_TYPE": "V",
+            "DT_START": "2018/02/23",
+            "DT_END": "2018/02/28",
+            "REQ_REASON": "",
+            "REQ_STATUS": "",
+            "DT_APPROVED": "",
+            "LEAVE_DEPT": ""
+        }
+    ],
+    "timeEntry": [
+        {
+            "Date": "2018/01/06",
+            "Hours": 8,
+            "Details": [{
+                    "Hours": 3,
+                    "Type": "Normal"
+                },
+                {
+                    "Hours": 2,
+                    "Type": "Overtime"
+                },
+                {
+                    "Hours": 1,
+                    "Type": "Sick"
+                },
+                {
+                    "Hours": 2,
+                    "Type": "Other"
+                }
+            ]
+        },
+        {
+            "Date": "2018/01/07",
+            "Hours": 5,
+            "Details": [
+                {
+                    "Hours": 1,
+                    "Type": "Normal"
+                },
+                {
+                    "Hours": 4,
+                    "Type": "Overtime"
+                }
+            ]
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
 }
