@@ -57,13 +57,21 @@
 		"Date": "2018/01/06",
 		"Hours": 8,
 		"Details": [{
-				"Hours": 4,
+				"Hours": 3,
 				"Type": "Normal"
 			},
 			{
-				"Hours": 4,
+				"Hours": 2,
 				"Type": "Overtime"
-			}
+			},
+			{
+				"Hours": 1,
+				"Type": "Sick"
+			},
+			{
+				"Hours": 2,
+				"Type": "Other"
+			},
 		]
 	}
 	],
