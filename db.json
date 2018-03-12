@@ -54,37 +54,26 @@
     ],
     "timeEntry": [
         {
-            "Date": "2018/01/06",
-            "Hours": 8,
-            "Details": [{
-                    "Hours": 3,
-                    "Type": "Normal"
-                },
+            "date": "2018/03/06",
+            "hours": 8,
+            "details": [
                 {
-                    "Hours": 2,
-                    "Type": "Overtime"
-                },
-                {
-                    "Hours": 1,
-                    "Type": "Sick"
-                },
-                {
-                    "Hours": 2,
-                    "Type": "Other"
+                    "hours": 8,
+                    "type": "Normal"
                 }
             ]
         },
         {
-            "Date": "2018/01/07",
-            "Hours": 5,
-            "Details": [
+            "date": "2018/03/07",
+            "hours": 12,
+            "details": [
                 {
-                    "Hours": 1,
-                    "Type": "Normal"
+                    "hours": 8,
+                    "type": "Normal"
                 },
                 {
-                    "Hours": 4,
-                    "Type": "Overtime"
+                    "hours": 4,
+                    "type": "Overtime"
                 }
             ]
         }
