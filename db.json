@@ -59,7 +59,7 @@
             "details": [
                 {
                     "hours": 8,
-                    "type": "Normal"
+                    "type": "Regular"
                 }
             ]
         },
@@ -69,7 +69,7 @@
             "details": [
                 {
                     "hours": 8,
-                    "type": "Normal"
+                    "type": "Regular"
                 },
                 {
                     "hours": 4,
